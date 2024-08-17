@@ -1,3 +1,3 @@
-##Web audio research
+Web audio research
 
 This summer, my project is “Tuning-in on the Web: Developing a Framework for ensemble interaction in the Browser”. I’ve been working on this project with a team of four for just over 7 weeks and have 3 weeks left. The goal of the project is to create a framework and a set of examples of collaborative musical instruments developed for the browser. We’re building on the Web Audio Sandbox, a framework developed in the summer of 2023 for the MIT course: Intro to Music Tech (21M.080). This summer, we created a set of browser-based instruments that allow performers to see and interact with the gestures and choices of their fellow musicians.
